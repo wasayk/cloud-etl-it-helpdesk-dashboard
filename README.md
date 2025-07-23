@@ -74,21 +74,6 @@ Before dashboarding, raw insights were explored via SQL:
 
 ---
 
-## 📂 Project Files
-
-it-ticket-analysis/
-├── mock_ticket_data_hours.csv
-├── PowerBI_Tickets.pbix
-├── SQL_queries.sql
-├── PowerBI_DAX_Measures.txt
-├── dashboard-screenshots/
-│ ├── overview.png
-│ ├── technician-performance.png
-│ ├── issue-type-trends.png
-│ ├── daily-trends.png
-│ ├── treemap-breakdown.png
-│ └── architecture-diagram.png
-└── README.md
 
 ## 👤 Author
 
